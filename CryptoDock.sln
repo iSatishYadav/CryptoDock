@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoDock", "CryptoDock\CryptoDock.csproj", "{47DB6E91-EB88-4D92-8D60-2AF231F4077B}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{08382FA8-C4E4-4864-A88E-7106DE6D2F22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47DB6E91-EB88-4D92-8D60-2AF231F4077B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47DB6E91-EB88-4D92-8D60-2AF231F4077B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47DB6E91-EB88-4D92-8D60-2AF231F4077B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47DB6E91-EB88-4D92-8D60-2AF231F4077B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08382FA8-C4E4-4864-A88E-7106DE6D2F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08382FA8-C4E4-4864-A88E-7106DE6D2F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08382FA8-C4E4-4864-A88E-7106DE6D2F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08382FA8-C4E4-4864-A88E-7106DE6D2F22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB8F53A6-5868-4D28-A428-177AA9537693}
+	EndGlobalSection
+EndGlobal

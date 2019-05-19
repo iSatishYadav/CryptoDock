@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  cryptodock:
+    image: ${DOCKER_REGISTRY-}cryptodock
+    build:
+      context: .
+      dockerfile: CryptoDock/Dockerfile
